@@ -249,12 +249,3 @@ The I/O APIs provided by the File Api can be classified into the following types
     }
     ```
 
-
-## Repositories Involved<a name="section178mcpsimp"></a>
-
-- [**File Api**](https://gitee.com/openharmony/filemanagement_file_api)
-- [filemanagement_dfs_service](https://gitee.com/openharmony/filemanagement_dfs_service)
-- [filemanagement_user_file_service](https://gitee.com/openharmony/filemanagement_user_file_service)
-- [filemanagement_storage_service](https://gitee.com/openharmony/filemanagement_storage_service)
-- [filemanagement_app_file_service](https://gitee.com/openharmony/filemanagement_app_file_service)
-
