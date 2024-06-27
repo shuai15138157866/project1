@@ -9,8 +9,6 @@
     -   [Available APIs](#section127mcpsimp)
     -   [Usage Guidelines](#section149mcpsimp)
 
--   [Repositories Involved](#section178mcpsimp)
-
 ## Introduction<a name="section104mcpsimp"></a>
 
 Currently, the File Api provides apps with JavaScript APIs for I/O capabilities, including APIs for managing files and directories, obtaining file information, reading and writing data streams of files, and receiving URIs rather than absolute paths.
